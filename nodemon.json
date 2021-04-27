@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "mern-admin",
+        "MONGO_PASSWORD": "iPHsnDhj3PzDkwZj",
+        "MONGO_DB": "mern-stack-db"
+    }
+}
